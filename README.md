@@ -1,7 +1,5 @@
 # Hi, I'm Alfredo! 👋
-I have strong interest in full-stack web development and AI. I'm eager to explore new technologies and skills to have a vast toolkit to choose from when crafting projects.
-
-In my free time, I work on personal projects to practice and keep learning the tools I already use or try new ones. These projects are usually related to things I like, and I create them with the main objective of improving myself.
+Motivated Frontend Developer with hands-on experience building responsive web and mobile applications using modern JavaScript frameworks like React, Next.js and React Native. Comfortable working with backend technologies such as NestJS and Django when needed to support full project functionality. Enthusiastic about learning new tools, writing clean and maintainable code, and contributing to meaningful, user-centered products.
 
 ### 🛠 Skills
 <!--
