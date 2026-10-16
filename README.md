@@ -45,16 +45,3 @@ Motivated Frontend Developer with hands-on experience building responsive web an
 ### 🔗Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sand-six-71.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-fabila-reyes-482b51267/)
-
-### ⭐ Favorite community members and resources
-[midudev](https://github.com/midudev)
-<br/>
-[mouredev](https://github.com/mouredev)
-<br/>
-[WebDevSimplified](https://github.com/WebDevSimplified)
-<br/>
-[JavaScript Mastery](https://github.com/adrianhajdin)
-<br/>
-[skill-icons](https://github.com/tandpfun/skill-icons)
-<br/>
-[Simple Badges](https://badges.pages.dev/)
